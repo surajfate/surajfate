@@ -1,381 +1,153 @@
-I have an old GitHub profile README that needs a complete redesign and modernization.
+<div align="center">
 
-Rebuild it into a visually stunning, premium, recruiter-friendly GitHub profile README that feels like a modern developer landing page.
+# Hi, I'm Suraj Fate 👋
 
-Use clean Markdown + HTML and optimize everything for GitHub rendering.
+### Generative AI Engineer · LLMOps · Agentic AI Systems · Backend Engineer
 
-==========================================
-PERSONAL INFORMATION
-==========================================
+Building production-ready AI systems using LLMs, multi-agent architectures, RAG pipelines and cloud infrastructure.
 
-Name:
-Suraj Fate
+<br/>
 
-Role:
-Generative AI Engineer | LLMOps Engineer | Agentic AI Systems | Backend Engineer
+<a href="https://github.com/surajfate">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/suraj-fate">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fatesuraj52@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Tagline:
-Building Production-Ready AI Systems with LLMs, Multi-Agent Architectures & Cloud Infrastructure.
+</div>
 
-GitHub:
-https://github.com/surajfate
+<br/>
 
-LinkedIn:
-https://linkedin.com/in/suraj-fate
+<div align="center">
+  <img src="./Assets/output.gif" alt="Suraj Fate Superhero Banner" width="100%" />
+</div>
 
-Instagram:
-https://instagram.com/surajfate
+---
 
-Portfolio:
-https://surajfate.dev
+## 👨‍💻 About Me
 
-Email:
-fatesuraj52@gmail.com
+- 🔭 Building production-grade Generative AI and agentic systems
+- 🧠 Working with RAG pipelines, multi-agent orchestration and LLM evaluation
+- ⚙️ Developing scalable backend services using FastAPI and Django
+- ☁️ Deploying AI applications using AWS and Docker
+- 🌱 Currently learning MCP, Kafka, Terraform and advanced system design
+- 💬 Ask me about Python, FastAPI, LangGraph, CrewAI, RAG, AWS and Docker
+- 📫 Reach me at **fatesuraj52@gmail.com**
 
-==========================================
-SECTION 1 — HERO
-==========================================
+---
 
-Create a beautiful centered hero section containing:
+## 🚀 Tech Stack
 
-• Large animated greeting
-• Name
-• Professional tagline
-• Typing SVG animation
-• Modern spacing
-• Large clickable social badges
+### AI / Generative AI
 
-Include:
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A36?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+</p>
 
-GitHub
+### Backend
 
-LinkedIn
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,java,spring" />
+</p>
 
-Instagram
+### Frontend
 
-Portfolio
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+</p>
 
-Email
+### Cloud & DevOps
 
-Use Shields.io badges where appropriate.
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git" />
+</p>
 
-==========================================
-SECTION 2 — HERO GIF
-==========================================
+### Databases
 
-Embed this asset:
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql" />
+</p>
 
-Assets/output.gif
+---
 
-Use ONLY relative paths.
+## 🧩 Featured Projects
 
-Display it centered and responsive.
+### 🤖 Autonomous AI Employee System
 
-==========================================
-SECTION 3 — ABOUT ME
-==========================================
+Multi-agent AI system using LangGraph, CrewAI, Pinecone, Gmail API, Slack API and Google Calendar.
 
-Create a polished About section.
+[View Project](https://github.com/surajfate/autonomous-ai-employee)
 
-Mention:
+### 📚 Multimodal RAG Knowledge Assistant
 
-• Generative AI Engineer
-• Building production AI systems
-• Multi-Agent Architectures
-• RAG Pipelines
-• Backend Engineering
-• Cloud Deployment
-• Open Source
-• Always learning
+RAG platform supporting PDFs, images, voice and video using FastAPI, Pinecone, Whisper and AWS.
 
-Include sections like:
+[View Project](https://github.com/surajfate/multimodal-rag)
 
-🔭 Currently Working On
+### 🎙️ Real-Time AI Interview Copilot
 
-🌱 Currently Learning
+Real-time interview assistant built using React, FastAPI, WebSockets, Whisper and streaming LLM inference.
 
-💬 Ask Me About
+### 🧠 LLM Fine-Tuning & Evaluation Pipeline
 
-⚡ Fun Fact
+Fine-tuning pipeline using PyTorch, Hugging Face, LoRA, QLoRA, MLflow and RAGAS.
 
-Base this on my experience:
+[View Project](https://github.com/surajfate/llm-finetune-pipeline)
 
-- Production RAG Systems
-- LangGraph
-- CrewAI
-- LangChain
-- Pinecone
-- OpenAI APIs
-- FastAPI
-- AWS
-- Docker
-- Redis
-- PostgreSQL
-- MongoDB
-- Prompt Engineering
-- Vector Databases
-- LLM Evaluation
-- System Design
-- AI Infrastructure
+---
 
-==========================================
-SECTION 4 — TECH STACK
-==========================================
+## 📊 GitHub Analytics
 
-Create premium categorized sections.
+<div align="center">
 
-Backend
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajfate&show_icons=true&theme=tokyonight&hide_border=true" />
 
-Python
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajfate&layout=compact&theme=tokyonight&hide_border=true" />
 
-FastAPI
+<br/>
 
-Django
+<img src="https://streak-stats.demolab.com?user=surajfate&theme=tokyonight&hide_border=true" />
 
-Flask
+<br/>
 
-REST APIs
+<img src="https://github-profile-trophy.vercel.app/?username=surajfate&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-JWT
+</div>
 
-OAuth
+---
 
-Frontend
+## 🏆 Achievements
 
-React
+- Rockstar of the Month at Zepto
+- Pinnacle Award for high-impact engineering contribution
+- Built production AI systems handling real-world workloads
+- Solved 500+ DSA problems
+- Open-source contributor in Generative AI and backend engineering
 
-TypeScript
+---
 
-JavaScript
+<div align="center">
 
-HTML
+### Let's Connect
 
-CSS
+<a href="https://linkedin.com/in/suraj-fate">LinkedIn</a>
+•
+<a href="https://github.com/surajfate">GitHub</a>
+•
+<a href="mailto:fatesuraj52@gmail.com">Email</a>
 
-Cloud & DevOps
+<br/><br/>
 
-AWS
+⭐ From [Suraj Fate](https://github.com/surajfate)
 
-Docker
-
-Kubernetes
-
-GitHub Actions
-
-CI/CD
-
-Databases
-
-PostgreSQL
-
-MongoDB
-
-Redis
-
-Pinecone
-
-FAISS
-
-DynamoDB
-
-AI / ML
-
-LangChain
-
-LangGraph
-
-CrewAI
-
-LlamaIndex
-
-OpenAI
-
-HuggingFace
-
-Whisper
-
-PyTorch
-
-Transformers
-
-RAG
-
-LoRA
-
-QLoRA
-
-MLflow
-
-RAGAS
-
-Tools
-
-Git
-
-Linux
-
-VS Code
-
-Postman
-
-Use skillicons.dev wherever possible.
-
-Supplement with Devicons and Shields badges.
-
-==========================================
-SECTION 5 — FEATURED PROJECTS
-==========================================
-
-Create premium cards for these projects:
-
-1.
-Autonomous AI Employee System
-
-Highlights:
-
-Multi-Agent AI
-
-LangGraph
-
-CrewAI
-
-Gmail Automation
-
-Slack Integration
-
-Google Calendar
-
-Persistent Memory
-
-Pinecone
-
-2.
-Multimodal RAG Knowledge Assistant
-
-OCR
-
-Whisper
-
-FastAPI
-
-OpenAI
-
-Pinecone
-
-AWS
-
-PDF + Voice + Images
-
-3.
-Real-Time AI Interview Copilot
-
-React
-
-Streaming
-
-WebSockets
-
-Whisper
-
-FastAPI
-
-OpenAI
-
-4.
-LLM Fine-Tuning Pipeline
-
-PyTorch
-
-QLoRA
-
-MLflow
-
-RAGAS
-
-Transformers
-
-==========================================
-SECTION 6 — GITHUB ANALYTICS
-==========================================
-
-Include:
-
-GitHub Stats
-
-Top Languages
-
-Contribution Streak
-
-GitHub Trophies
-
-Contribution Snake Animation
-
-Everything centered.
-
-==========================================
-SECTION 7 — ACHIEVEMENTS
-==========================================
-
-Create a section highlighting:
-
-🏆 Rockstar of the Month
-
-🏆 Pinnacle Award
-
-500+ DSA Problems
-
-Production AI Systems
-
-Open Source Contributions
-
-==========================================
-SECTION 8 — CONNECT
-==========================================
-
-Create a premium contact section.
-
-Include badges for:
-
-GitHub
-
-LinkedIn
-
-Instagram
-
-Portfolio
-
-Email
-
-==========================================
-DESIGN REQUIREMENTS
-==========================================
-
-Modern
-
-Minimal
-
-Premium
-
-Recruiter Friendly
-
-Dark-theme friendly
-
-Professional
-
-Balanced whitespace
-
-Responsive
-
-GitHub compatible
-
-Use HTML where helpful.
-
-Avoid broken images.
-
-Avoid deprecated badges.
-
-Use relative asset paths.
-
-Make the README feel like a high-end software engineer portfolio rather than a typical GitHub profile.
-
-The final output should be a single complete README.md file ready to paste directly into GitHub.
+</div>
